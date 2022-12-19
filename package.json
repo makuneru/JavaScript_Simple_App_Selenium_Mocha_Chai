@@ -19,10 +19,10 @@
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
-    "chai": "^4.3.4",
+    "chai": "^4.3.6",
     "chromedriver": "latest",
-    "mocha": "^9.0.0",
-    "selenium-webdriver": "^4.0.0-beta.4"
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.7.1"
   },
   "mocha": {
     "timeout": 100000
